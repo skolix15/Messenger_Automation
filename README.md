@@ -23,3 +23,5 @@ Some Notes:
 This program works only for the first 21 contacts that exist in the recently messages.
 In order to work for a person that exists in the messages further down, the contact area must be scrolled down.
 
+👉 If you need any further information for the current project feel free to contact by sending me an email: **skolix15@gmail.com**
+
