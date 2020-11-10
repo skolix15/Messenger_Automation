@@ -11,6 +11,8 @@ When the conversation of the give account will be found, the source code will au
 
 More details:
 
+- In lines 6 the user needs to insert the browser's driver path.
+
 - In lines 9-11 the user needs to insert his/her credentials.
 
 - In line 39 the user needs to write the name of the contact that he or she wants to send a message.
